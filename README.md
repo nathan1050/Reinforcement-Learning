@@ -41,7 +41,7 @@ My best model was trained with the LinearAnnealedPolicy with EpsGreedyQPolicy fo
 ![Alt text](/img/4.jpeg "Training")
 
 ## Testing
-![Alt text](/img/5.jpeg "Testing")
+![Alt text](/img/5.png "Testing")
 
 This is a graph displaying running the model for 100 games
 
